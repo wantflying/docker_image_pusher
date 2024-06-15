@@ -1,5 +1,5 @@
 #支持私库
 docker.io/bitnami/zookeeper:3.9.2-debian-12-r7
-xhofe/alist:latest
+docker.io/bitnami/kafka:3.7.0-debian-12-r7
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
