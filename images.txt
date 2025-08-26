@@ -1,4 +1,4 @@
-#支持私库
+#支持私库 
 #whyour/qinglong:latest
 saintwe/sub-store:latest
 #支持指定架构
