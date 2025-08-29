@@ -1,5 +1,6 @@
 #支持私库 
 #whyour/qinglong:latest
-nginx:1.28-alpine
+#nginx:1.28-alpine
+jc21/nginx-proxy-manager:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
