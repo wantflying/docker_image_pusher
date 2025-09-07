@@ -1,6 +1,6 @@
 #支持私库 
 #whyour/qinglong:latest
 #nginx:1.28-alpine
-linuxserver/qbittorrent:4.6.7
+nattertool/natter:2.1.1
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
